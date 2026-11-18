@@ -83,6 +83,7 @@ For the submods in this collection, the **structure and code skeleton** were wri
 
 ## Credits
 
+- The team Salvato for Doki Doki Literature Club
 - The [Just Natsuki Team](https://github.com/Just-Natsuki-Team/NatsukiModDev) for the game and its source.
 - [Zhaumbie](https://github.com/Zhaumbie) for the inspiration.
 - [Wowm](https://github.com/wowm03) for beta testing.
