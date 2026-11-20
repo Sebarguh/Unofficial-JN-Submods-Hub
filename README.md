@@ -13,7 +13,7 @@ I was inspired by the work of Zhaumbie, who makes incredible submods too. Here i
 ## Games/Session Submods
 
 - [**Drawing Session**]([link]): Tell Natsuki you're going to draw. Her dialogue changes with your drawing style (Beta)
-- [**Chess**]([link]): Play chess against Natsuki, with a hand-made board and pieces (Beta)
+- [**Chess**]([(https://github.com/Sebarguh/Chess-Game-with-Natsuki-)]): Play chess against Natsuki, with a hand-made board and pieces (Beta)
 - [**Piano Session**]([link]): Play your own piano while Natsuki listens (Beta)
 
 ## Utilities "so cool!"
